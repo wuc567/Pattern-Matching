@@ -11,8 +11,8 @@ Pattern matching (PM) with gap constraints has been applied to compute the suppo
 ---
 
 #### Datasets:
-[Datasets](https://github.com/wuc567/Pattern-Matching/tree/master/NetDAP/dataset)
+[Datasets](https://github.com/wuc567/Pattern-Matching/blob/master/NetDAP/dataset.rar)
 
 #### Algorithms:
 
-[NetDAP](https://github.com/wuc567/Pattern-Matching/tree/master/NetDAP/code)
+[NetDAP](https://github.com/wuc567/Pattern-Matching/tree/master/NetDAP/code.rar)
