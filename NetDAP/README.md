@@ -1,7 +1,8 @@
-## NetDAP: (\delta, \gamma)-Approximate Pattern matching with length constraints
+## NetDAP: (δ, γ)-Approximate Pattern matching with length constraints
+
 ***
 
-Youxi Wu, Jinquan Fan, Yan Li, Lei Guo, Xindong Wu. NetDAP: ($\delta$, $\gamma$)-Approximate Pattern matching with length constraints[J]. Applied Intelligence, 2020.
+Youxi Wu, Jinquan Fan, Yan Li, Lei Guo, Xindong Wu. NetDAP: (δ, γ)-Approximate Pattern matching with length constraints[J]. Applied Intelligence, 2020.
 
 #### Abstract:
 
