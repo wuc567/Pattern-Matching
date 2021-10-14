@@ -9,6 +9,6 @@ Approximate pattern matching  not only is more general than exact pattern matchi
 ---
 
 #### Datasets:
-[Dataset](https://github.com/wuc567/Pattern-Matching/blob/master/NetDPO/DataSet.zip)  (All sequences)
+[Dataset](https://github.com/wuc567/Pattern-Matching/blob/master/NetDPO/DataSet)  (All sequences)
 #### Algorithms:
-[NetDPO and all competitive algorithms](https://github.com/wuc567/Pattern-Matching/blob/master/NetDPO/NetDPO_code.zip)
+[NetDPO and all competitive algorithms](https://github.com/wuc567/Pattern-Matching/blob/master/NetDPO)
